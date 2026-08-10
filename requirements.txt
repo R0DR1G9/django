@@ -1,0 +1,4 @@
+#colocar todas as bibliotecas
+django  #framework
+selenium  #framework automatizado
+webdriver-manager  #rodar na web
