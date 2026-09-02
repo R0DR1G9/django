@@ -1,6 +1,6 @@
 from django.urls import path
 
-from .migrations import views
+from . import views
 
 app_name = 'forum'
 urlpatterns = [
